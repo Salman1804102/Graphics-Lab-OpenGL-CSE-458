@@ -34,3 +34,10 @@ This repository contains a collection of lab exercises related to Computer Graph
 8. **Fractals: C-Curve, Koch-Curve, and Gasket**
 
    Implementation of fractal patterns like C-Curve, Koch-Curve, and Sierpinski Gasket in OpenGL.
+
+
+## License
+
+This project is licensed under the [MIT](https://choosealicense.com/licenses/mit/), which means you are free to use and modify the code according to the terms specified in the license.
+
+**Developed by Salman Farsi** 
